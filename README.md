@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=gaurvi-vishnoi)
+![Profile views](https://komarev.com/ghpvc/?username=JAIS0N)
 
 <h1 align="center">
   Let's Connect and have a Chat!
@@ -22,6 +22,6 @@ A dedicated and highly motivated Software Engineer (Data/ML Background) pursuing
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurvi-vishnoi&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAIS0N&layout=compact&theme=radical" width="48%" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
