@@ -23,7 +23,6 @@ A dedicated and highly motivated Software Engineer (Data/ML Background) pursuing
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAIS0N&layout=compact&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JAIS0N&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAIS0N&theme=radical" width="48%" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
